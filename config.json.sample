@@ -1,0 +1,7 @@
+{
+  "consumer_key": "Twitter_key_for_your_Application",
+  "consumer_secret": "Twitter_secret_for_your_Application",
+
+  "access_token": "OAuth_token_for_your_User",
+  "access_token_secret": "OAuth_token_secret_for_your_User"
+}
