@@ -29,6 +29,8 @@ This project accepts contributions!  You may submit a PR to add another game to 
 * Try to get *all* the items in one commit.
 * Compress images first, using [OptiPNG](http://optipng.sourceforge.net/), [PNGOUT](http://advsys.net/ken/utils.htm), etc.  Make sure to use a lossless tool (no pngquant!)
 
+The project includes a utility called `check.pl` which performs some basic tests of the data files to ensure coverage, and test for missing JSON elements or typos.  It's recommended to run this before submitting a PR, because Travis CI is also configured to call it, and you'll have to fix anything it doesn't like before accepting anyway.
+
 Squash PRs into a single commit, and submit only one game per PR: this makes it easy to browse in history, as well as avoiding large changesets in multiple places in the Git history.
 
 ## Contact
