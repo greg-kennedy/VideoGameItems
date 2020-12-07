@@ -1,0 +1,20 @@
+{
+  "name": "Super Mario Bros. 3",
+  "creator": "Nintendo",
+  "system": "Nintendo Entertainment System",
+  "items": {
+    "anchor.png": { "name": "Anchor", "description": "This can stop the airships from moving." },
+    "fire_flower.png": { "name": "Fire Flower", "description": "Changes Mario into Fire Mario." },
+    "frog_suit.png": { "name": "Frog Suit", "description": "Changes Mario into Frog Mario." },
+    "hammer.png": { "name": "Hammer", "description": "Used to break rocks on the Map Screen." },
+    "hammer_suit.png": { "name": "Hammer Suit", "description": "Changes Mario into Hammer Mario." },
+    "jugems_cloud.png": { "name": "Jugem's Cloud", "description": "Allows you to pass an action scene without playing it." },
+    "mushroom.png": { "name": "Super Mushroom", "description": "Changes Mario into Super Mario." },
+    "music_box.png": { "name": "Music Box", "description": "You can make Hammer Brothers and others fall asleep on the map." },
+    "p-wing.png": { "name": "Magic Wing", "description": "You can fly through an action scene until you run into an enemy." },
+    "star.png": { "name": "Starman", "description": "When you start an action scene you will be invincible for a short time." },
+    "super_leaf.png": { "name": "Super Leaf", "description": "Changes Mario into Racoon Mario." },
+    "tanooki_suit.png": { "name": "Tanooki Suit", "description": "Changes Mario into Tanooki Mario." },
+    "warp_whistle.png": { "name": "Warp Whistle", "description": "Not much is known about the Magic Whistle. See if you can find it!" }
+  }
+}
