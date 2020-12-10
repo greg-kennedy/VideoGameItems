@@ -1,0 +1,25 @@
+{
+  "name": "Space Quest III: The Pirates of Pestulon",
+  "creator": "Sierra On-Line",
+  "system": "PC (MS-DOS)",
+  "items": {
+    "a_copy_of_elmos_picture.png": { "name": "a copy of Elmo's picture", "description": "A fine likeness of a likeness of Elmo Pug's mug." },
+    "astro_chicken_flight_hat.png": { "name": "Astro Chicken Flight Hat", "description": "Wow! Your Official Astro Chicken Flight Hat!  Man, the babes'll really dig you in this!" },
+    "bag_of_fast_food.png": { "name": "Bag of Fast Food", "description": "A bag chock-full of gastric delights!" },
+    "buckazoids.png": { "name": "Buckazoids", "description": "You possess %d of these nifty monetary units known as 'Buckazoids'." },
+    "coveralls.png": { "name": "Coveralls", "description": "A pair of janitor's coveralls. Used for looking the part." },
+    "elmos_picture.png": { "name": "Elmo's picture", "description": "A fine likeness of Elmo Pug's mug. Elmo Pug is the dashing young owner of ScumSoft, Inc." },
+    "glowing_gem.png": { "name": "Glowing Gem", "description": "You are still carrying the piece of orium you picked up on Labion during your last adventure. However, it has long since lost its glow." },
+    "invisibility_belt.png": { "name": "Invisibility Belt", "description": "Terminator's invisibility belt." },
+    "keycard.png": { "name": "Keycard", "description": "Elmo Pug's personal keycard for opening locked doors." },
+    "ladder.png": { "name": "Ladder", "description": "This is a ladder. The evenly spaced rungs allow altitude adjustment." },
+    "metal_pole.png": { "name": "Metal Pole", "description": "A handy metal pole." },
+    "monolith_decoder_ring.png": { "name": "Monolith Decoder Ring", "description": "With this ring, you can decode any secret message!  Well, almost any secret message." },
+    "orat_on_a_stick.png": { "name": "Orat on a Stick", "description": "Orat on a Stick! You can open his mouth, and close his mouth! Hours of fun for all!" },
+    "reactor.png": { "name": "Reactor", "description": "This is an auxiliary reactor" },
+    "thermal_detonator.png": { "name": "Thermal Detonator", "description": "Used for blowing stuff to little bits.   It has an impact switch, so in other words...DON'T DROP IT!" },
+    "thermoweave_underwear.png": { "name": "ThermoWeave Underwear", "description": "ThermoWeave Shorts.  They keep you cool, and they're oh, so stylish." },
+    "vaporizer.png": { "name": "Vaporizer", "description": "Mr. Garbage: a janitor's best friend. Designed to vaporize all nonorganic biodegradable matter (i.e. trash)." },
+    "wire.png": { "name": "Wire", "description": "It's a piece of SQ-approved electrical wire." }
+  }
+}
